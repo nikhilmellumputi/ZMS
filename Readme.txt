@@ -2,7 +2,7 @@ How to run the Theme Zoo Management System Project Using PHP and MySQL
 
 1.Download the zip file
 
-2.Extract the file and copy zms folder
+2.Extract the file and copy all folders and files except sql file and readme.txt into a single folder named as zms and copy the new zms file.
 
 3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
 
